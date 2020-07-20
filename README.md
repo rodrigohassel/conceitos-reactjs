@@ -1,5 +1,5 @@
 # Conceitos sobre ReactJS
-> Desafio de número 02 sobre os conceitos aperendidos do ReactJS aplicados no bootcamp GoStack da RockSeat.
+> Desafio de número 02 sobre os conceitos aprendidos do ReactJS aplicados no bootcamp GoStack da RocketSeat.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
