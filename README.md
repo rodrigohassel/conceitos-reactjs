@@ -22,7 +22,7 @@ Objetivo é trabalhar front-end, possibilitando ler, excluir e adicionar os Repo
 
 Rodrigo Venturini Hassel – rodri.hassel@gmail.com
 
-[https://github.com/rodrigohassel/conceitos-nodejs](https://github.com/rodrigohassel)
+[https://github.com/rodrigohassel/conceitos-reactjs](https://github.com/rodrigohassel)
 
 ## Contribua
 
